@@ -1,3 +1,7 @@
+---
+redirect_to: "solucioneslab.com/como-controlar-la-ansiedad/"
+---
+
 ## Cómo curar la ansiedad
 
 Yo mismo, quien escribe, he sufrido de _trastorno de ansiedad generalizada_. Y te lo puedo asegurar: **la ansiedad se cura**. **Estás por descubrir información valiosa sobre cómo eliminar la ansiedad**. Si alguien de tu familia o tú mismo en este mismo momento está sufriendo de ansiedad, entonces déjame decirte que estás a simples clicks de acceder a mi método para curar la ansiedad.
