@@ -1,5 +1,5 @@
 ---
-redirect_to: "solucioneslab.com/como-controlar-la-ansiedad/"
+redirect_to: "http://solucioneslab.com/como-controlar-la-ansiedad/"
 ---
 
 ## Cómo curar la ansiedad
