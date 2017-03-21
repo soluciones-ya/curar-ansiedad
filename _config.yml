@@ -1,0 +1,8 @@
+title: Curar-ansiedad
+description: La ansiedad tiene cura. Descubre el mejor tratamiento para combatir y superar la ansiedad.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
